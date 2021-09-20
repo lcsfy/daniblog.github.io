@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepages on Parsa Hugo | Personal Blog Template</title>
-    <link>daniblog.github.io/homepage/</link>
+    <link>https://lcsfy.github.io/daniblog.github.io/homepage/</link>
     <description>Recent content in Homepages on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="daniblog.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lcsfy.github.io/daniblog.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homepage 1</title>
-      <link>daniblog.github.io/homepage/home-1/</link>
+      <link>https://lcsfy.github.io/daniblog.github.io/homepage/home-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>daniblog.github.io/homepage/home-1/</guid>
+      <guid>https://lcsfy.github.io/daniblog.github.io/homepage/home-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homepage 2</title>
-      <link>daniblog.github.io/homepage/home-2/</link>
+      <link>https://lcsfy.github.io/daniblog.github.io/homepage/home-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>daniblog.github.io/homepage/home-2/</guid>
+      <guid>https://lcsfy.github.io/daniblog.github.io/homepage/home-2/</guid>
       <description></description>
     </item>
     
